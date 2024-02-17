@@ -11,7 +11,7 @@ This Django application provides a real-time visualization of pathfinding algori
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shreypatel65/PathVisualization
+    git clone https://github.com/Tirth-70/PathVisualization-Django
     cd PathVisualization
     ```
 
